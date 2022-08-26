@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=random&height=300&section=header&text=Sim-918&fontSize=70&animation=blinking&fontColor=black&rotate=15)
+![header](https://capsule-render.vercel.app/api?type=slice&color=random&height=300&section=header&text=Sim-918&fontSize=70&animation=blinking&fontColor=32AAFF&rotate=15)
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 
 <!--
